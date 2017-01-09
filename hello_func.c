@@ -4,6 +4,6 @@
 int print_hello() {
     int ret = 0;
     printf("Hello Mr Jenkins! FAIL!!!\n");
-    ret = 1;
+    /* ret = 1; */
     return ret;
 }
